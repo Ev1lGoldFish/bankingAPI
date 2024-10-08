@@ -1,6 +1,6 @@
 # bankingAPI
 This application is a simple API that can perform common banking operations such as getting all accounts, getting an account by account id, deposit money, withdraw money, add account and delete account.
-The API is built using **Java, Spring Boot, Spring Data JPA (Hibernate), & MySQL**.
+The API is built using **Java, Spring Boot, Spring Data JPA (Hibernate), & MySQL** and tested using **Postman**.
 Dependencies used: Spring Web, Spring Data JPA, MySQL Driver, Lombok 
 
 ## Instructions
